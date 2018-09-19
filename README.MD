@@ -11,3 +11,6 @@ En uppdatering som snart skall releasas.
 Uppdatering 5
 
 Uppdatering 6
+
+uppdatering 7
+

@@ -18,4 +18,6 @@ uppdatering 8
 
 uppdatering 9
 
-uppdaterin 10
+uppdatering 10
+
+uppdatering 11

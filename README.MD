@@ -26,3 +26,4 @@ uppdatering 12
 
 uppdatering 13
 
+uppdatering 14

@@ -21,3 +21,5 @@ uppdatering 9
 uppdatering 10
 
 uppdatering 11
+
+uppdatering 12
